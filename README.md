@@ -16,7 +16,6 @@ As a **Data Analyst**, I will:
 - **Markdown & Presentations** for reporting  
 
 ## 📂 Project Structure
-```plaintext
 📦 eniac-discount-analysis
 │
 ├── 📂 data
