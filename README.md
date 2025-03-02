@@ -16,3 +16,26 @@ As a **Data Analyst**, I will:
 - **Markdown & Presentations** for reporting  
 
 ## 📂 Project Structure
+📦 eniac-discount-analysis  
+│  
+├── 📂 data  
+│   ├── raw/               
+│   ├── cleaned/              
+│  
+├── 📂 notebooks  
+│   ├── 01_data_cleaning.ipynb       
+│   ├── 02_category_creation_idea.ipynb  
+│   ├── 03_discount_impact_analysis.ipynb    
+│   ├── 04_final_visualizations.ipynb    
+│  
+├── 📂 reports  
+│   ├── business_findings.md   
+│       
+│  
+├── 📂 presentation  
+│   ├── slides.pdf            
+│  
+│  
+├── .gitignore                
+├── README.md                  
+
