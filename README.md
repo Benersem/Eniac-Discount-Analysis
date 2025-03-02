@@ -26,18 +26,15 @@ As a **Data Analyst**, I will:
 │   ├── 01_data_cleaning.ipynb      
 │   ├── 02_exploratory_analysis.ipynb    
 │   ├── 03_discount_impact_analysis.ipynb 
-│   ├── 04_final_visualizations.ipynb 
+│   ├── 04_final_visualizations.ipyn
 │  
 ├── 📂 reports  
 │   ├── business_findings.md  
-│   ├── technical_report.md   
+│   
 │  
 ├── 📂 presentation  
-│   ├── slides.pdf          
+│   ├── eniac_discount_case_study.pdf          
 │  
-├── 📂 src  
-│   ├── data_cleaning.py      
-│   ├── analysis_functions.py 
 │  
 ├── .gitignore               
 ├── README.md                 
