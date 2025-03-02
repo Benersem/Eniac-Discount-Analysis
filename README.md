@@ -16,25 +16,44 @@ As a **Data Analyst**, I will:
 - **Markdown & Presentations** for reporting  
 
 ## 📂 Project Structure
-📦 eniac-discount-analysis
-│
-├── 📂 data
-│ ├── 📂 raw
-│ └── 📂 cleaned
-│
-├── 📂 notebooks
-│ ├── 01_data_cleaning.ipynb
-│ ├── 02_category_creation_idea.ipynb
-│ ├── 03_category_creation.ipynb
-│ ├── 04_discount_analysis.ipynb
-│ ├── 05_quality_assessment.ipynb
-│ └── 06_data_analysis_visualisations.ipynb
-│
-├── 📂 reports
-│ └── business_findings.md
-│
-├── 📂 presentation
-│ └── eniac_discount_case_study.pdf
-│
-├── .gitignore
-└── README.md
+📦 eniac-discount-analysis  
+│  
+├── 📂 data  
+│   ├── raw/                
+│   ├── cleaned/           
+│  
+├── 📂 notebooks  
+│   
+│  
+├── 📂 reports  
+│   ├── business_findings.md  
+│   ├── technical_report.md    
+│  
+├── 📂 presentation  
+│   ├── slides.pdf            
+│  
+│  
+├── .gitignore                 
+├── README.md                 
+
+
+## 📊 Key Business Questions
+- How should products be categorized for easier analysis?
+- What is the distribution of product prices across different categories?
+- How many products have discounts, and how large are they?
+- How do **seasonality & special dates** (e.g., Black Friday) impact sales?
+- Can data collection processes be improved?
+
+## 🏁 Expected Deliverables
+- 🧹 **Cleaned dataset** ready for analysis  
+- 📊 **Data-driven insights** on pricing & discount effects  
+- 📈 **Visualizations** that clearly communicate findings  
+- 🎤 **Business presentation** summarizing recommendations  
+
+---
+
+## 🔥 Getting Started
+### 1️⃣ Clone the repository:
+```bash
+git clone https://github.com/your-username/Eniac-Discount-Analysis.git
+cd Eniac-Discount-Analysis
