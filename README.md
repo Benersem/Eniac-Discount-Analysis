@@ -24,9 +24,11 @@ As a **Data Analyst**, I will:
 │  
 ├── 📂 notebooks  
 │   ├── 01_data_cleaning.ipynb      
-│   ├── 02_exploratory_analysis.ipynb    
-│   ├── 03_discount_impact_analysis.ipynb 
-│   ├── 04_final_visualizations.ipyn
+│   ├── 02_category_creation_idea.ipynb    
+│   ├── 03_category_creation.ipynb 
+│   ├── 04_discount_analysis.ipynb
+|   ├── 05_quality_assessment.ipynb
+|   ├── 06_data_analysis_visualisations.ipynb
 │  
 ├── 📂 reports  
 │   ├── business_findings.md  
